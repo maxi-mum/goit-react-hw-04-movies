@@ -1,0 +1,16 @@
+.list {
+  list-style-type: none;
+  text-decoration: none;
+}
+.links {
+  text-decoration: none;
+  color: #000;
+}
+
+.links:hover {
+  background-color: tomato;
+  color: yellow;
+}
+.listEl {
+  margin-bottom: 10px;
+}

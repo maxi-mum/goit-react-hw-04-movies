@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  list-style-type: none;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+.mainHeader {
+  color: black;
+}
+
+.mainHeader:hover {
+  color: tomato;
+}
+.home {
+  margin-right: 20px;
+}

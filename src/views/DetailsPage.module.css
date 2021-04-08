@@ -1,0 +1,10 @@
+.actorsImg {
+  width: 300px;
+  height: 300px;
+}
+a {
+  text-decoration: none;
+}
+.button {
+  cursor: pointer;
+}
